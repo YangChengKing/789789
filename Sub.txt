@@ -1,4 +1,8 @@
+vless://5a0be8fb-259a-4638-8d41-0a641f53d271@www.visa.com.tw:2053?encryption=none&security=tls&sni=cf.zetaikeji.dpdns.org&fp=randomized&allowInsecure=1&type=ws&host=cf.zetaikeji.dpdns.org&path=%2F%3Fed%3D2560#CF_V10_www.visa.com.tw_2053
+vless://5a0be8fb-259a-4638-8d41-0a641f53d271@www.visasoutheasteurope.com:2096?encryption=none&security=tls&sni=cf.zetaikeji.dpdns.org&fp=randomized&allowInsecure=1&type=ws&host=cf.zetaikeji.dpdns.org&path=%2F%3Fed%3D2560#CF_V13_www.visasoutheasteurope.com_2096
+vless://5a0be8fb-259a-4638-8d41-0a641f53d271@usa.visa.com:443?encryption=none&security=tls&sni=cf.zetaikeji.dpdns.org&fp=randomized&allowInsecure=1&type=ws&host=cf.zetaikeji.dpdns.org&path=%2F%3Fed%3D2560#CF_V8_usa.visa.com_443
 vless://5a0be8fb-259a-4638-8d41-0a641f53d271@www.visaeurope.ch:2083?encryption=none&security=tls&sni=cf.zetaikeji.dpdns.org&fp=randomized&allowInsecure=1&type=ws&host=cf.zetaikeji.dpdns.org&path=%2F%3Fed%3D2560#CF_V11_www.visaeurope.ch_2083
+vless://5a0be8fb-259a-4638-8d41-0a641f53d271@myanmar.visa.com:8443?encryption=none&security=tls&sni=cf.zetaikeji.dpdns.org&fp=randomized&allowInsecure=1&type=ws&host=cf.zetaikeji.dpdns.org&path=%2F%3Fed%3D2560#CF_V9_myanmar.visa.com_8443
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?sni=apple.com&insecure=1
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000#AZADIV2RAYY%20NL%20%20%F0%9F%87%B3%F0%9F%87%B1
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?encryption=none&security=tls&sni=pqh31v7.hiddendom.shop&allowInsecure=1&type=grpc#%40meli_proxyy
